@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/news-adda/static/js/main.5445d8b3.js",
+    "static/media/Spinner.gif": "/news-adda/static/media/Spinner.b51df3f3ec072548cb48.gif",
+    "index.html": "/news-adda/index.html",
+    "main.5445d8b3.js.map": "/news-adda/static/js/main.5445d8b3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5445d8b3.js"
+  ]
+}
